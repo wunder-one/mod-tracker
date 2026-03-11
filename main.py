@@ -1,11 +1,9 @@
-import sys
-import os
+import customtkinter
+import ui.app
 
 def main():
-
-
-    sys.exit(app.exec())
-
+    app = ui.app.App()
+    app.mainloop()
 
 
 if __name__ == "__main__":
