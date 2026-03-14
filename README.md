@@ -1,3 +1,7 @@
+| :hammer_and_wrench: Work in Progress                                |
+|:--------------------------------------------------------------------|
+| This project is in early planning stages. No code to see here yet.  |
+
 # BG3 Mod Tracker
 
 The goal of this project is to create a tracker for Bauldur's Gate 3 mods hosted on places like Nexus Mods or Patreon.
